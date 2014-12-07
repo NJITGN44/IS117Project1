@@ -186,17 +186,45 @@ color: white;
 
 #comparelist p {
 letter-spacing:6px;
+font-weight:bold;
 }
 
-#sidebar {
-background-color:#2980b9;
+#tablelist {
+border-collapse:collapse;
+
+}
+
+#sidebarb {
+background-color:blue;
+-ms-transform: rotate(-90deg); /* IE 9 */
+-webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+transform: rotate(-90deg);
+margin:0px;
+}
+
+#sidebarr {
+background-color:red;
+-ms-transform: rotate(-90deg); /* IE 9 */
+-webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+transform: rotate(-90deg);
+margin:0px;
+}
+
+.sidebarspace {
+/*background-color:#2980b9;*/
 color:white;
-float:left;
--ms-transform: rotate(2700deg); /* IE 9 */
--webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
-transform: rotate(270deg);
 }
 
+#heatingexp {
+	background-color:#eef1f5;
+	text-align:center;
+	}
+
+#heatingexp h1 {
+	color:#c0392b;
+	letter-spacing:4px;
+	}
+	
 
 
 #footer {
