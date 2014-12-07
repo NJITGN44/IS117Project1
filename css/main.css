@@ -224,7 +224,24 @@ color:white;
 	color:#c0392b;
 	letter-spacing:4px;
 	}
+#coolingexp {
+	text-align:center;
+	}
+
+#coolingexp h1 {
+	color:#2980b9;
+	letter-spacing:4px;
+	}	
 	
+.pictures {
+list-style-type:none;
+}
+
+.pictures li {
+align:center;
+float:left;
+margin:26px;
+}
 
 
 #footer {
