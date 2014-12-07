@@ -195,7 +195,7 @@ border-collapse:collapse;
 }
 
 #sidebarb {
-background-color:blue;
+background-color:#2980b9;
 -ms-transform: rotate(-90deg); /* IE 9 */
 -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
 transform: rotate(-90deg);
@@ -203,7 +203,7 @@ margin:0px;
 }
 
 #sidebarr {
-background-color:red;
+background-color:#c0392b;
 -ms-transform: rotate(-90deg); /* IE 9 */
 -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
 transform: rotate(-90deg);
@@ -242,6 +242,16 @@ align:center;
 float:left;
 margin:26px;
 }
+
+#about {
+	background-color:#eef1f5;
+	text-align:center;
+	}
+
+#about h1 {
+	color:#2c2c2c;
+	letter-spacing:4px;
+	}
 
 
 #footer {
